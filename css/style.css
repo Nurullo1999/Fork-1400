@@ -134,7 +134,48 @@ ul{
 
 /* footer start */
 
+.footer {
+    background-color: #EFEEEA;
+    color: #241C15;
+}
 
+.footer_content {
+    padding-top: 118px;
+    border-bottom: 2px solid #8C8C8C;
+}
+
+.li_menu {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    padding-bottom: 29px;
+}
+
+a,
+li {
+    color: #241C15;
+    text-decoration: none;
+    list-style: none;
+}
+
+a:hover {
+    color: #241C15;
+}
+
+.li_links {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 13px;
+}
+.li_menu-icon
+{
+    padding-bottom: 13px;
+}
 
 
 /* footer end */
